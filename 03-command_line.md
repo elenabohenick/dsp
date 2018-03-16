@@ -20,7 +20,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > * pwd - shows current working directory path
+> > * mkdir directoryname - creates new directory called directoryname
+> > * rm -r directoryname - removes directory called direcoryname and all of its child directories
+> > * touch filename.txt - crates a *.txt file called filename
+> > * rm filename - deletes a file called filename
+> > * mv filename_old.txt filename_new.txt - changes filename from filename_old to filename_new
+> > * ls -a - list all files in the working directory including hidden files
+> > * cp filename directoryname/ - copies files from current directory to satated direcoty
+> > * grep "line" filename.txt - searches for lines that match "line" in filename.txt
+> > * cat file1 >> file2 - takes the standard output of the file1 and appends it to the file2 
 
 ---
 
@@ -35,7 +44,14 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > 'ls' - lists all files in the working direcotry
+> > 'ls -a' - list all files incuding hidden in the working directory
+> > 'ls -l' - list all contents of the working directory in the longform format
+> > 'ls -lh' - list files with sizez in human readable format
+> > 'ls -lah' - list all files including hiddnet in the longform with sizer shown in human readable format (combination of three options l a h )
+> > 'ls -t' - sorts files by modification time showing last edited files first
+> > 'ls -Glp' - list files in the longform with the owner omitted and '/' after each filename
+
 
 ---
 
@@ -43,7 +59,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > 'ls -c' displays files by file timestamp
+> > 'ls -d' displays directories only
+> > 'ls -t' displays newest files first
+> > 'ls -F' flags filenames
+> > 'ls -R' displays subdirectories in addition to directories
 
 ---
 
@@ -51,7 +71,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > 'xargs' creates and execures commands from standard intput and can parallel process jobs. 
 
  
 
