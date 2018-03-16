@@ -36,14 +36,14 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-`ls` - lists all files in the working direcotry	  
-`ls -a` - list all files incuding hidden in the working directory	
-`ls -l` - list all contents of the working directory in the longform format	
-`ls -lh` - list files with sizez in human readable format   
+`ls` - lists all files in the working direcotry  
+`ls -a` - list all files incuding hidden in the working directory  
+`ls -l` - list all contents of the working directory in the longform format  
+`ls -lh` - list files with sizez in human readable format  
 `ls -lah` - list all files including hiddnet in the longform with sizer shown in human readable format (combination of t\
 hree options l a h )  
-`ls -t` - sorts files by modification time showing last edited files first	
-`ls -Glp` - list files in the longform with the owner omitted and '/' after each filename	  
+`ls -t` - sorts files by modification time showing last edited files first  
+`ls -Glp` - list files in the longform with the owner omitted and '/' after each filename    
 
 
 ---
