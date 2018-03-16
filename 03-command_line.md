@@ -44,13 +44,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > 'ls' - lists all files in the working direcotry
-> > 'ls -a' - list all files incuding hidden in the working directory
-> > 'ls -l' - list all contents of the working directory in the longform format
-> > 'ls -lh' - list files with sizez in human readable format
-> > 'ls -lah' - list all files including hiddnet in the longform with sizer shown in human readable format (combination of three options l a h )
-> > 'ls -t' - sorts files by modification time showing last edited files first
-> > 'ls -Glp' - list files in the longform with the owner omitted and '/' after each filename
+> > *'ls' - lists all files in the working direcotry
+> > *'ls -a' - list all files incuding hidden in the working directory
+> > *'ls -l' - list all contents of the working directory in the longform format
+> > *'ls -lh' - list files with sizez in human readable format
+> > *'ls -lah' - list all files including hiddnet in the longform with sizer shown in human readable format (combination of three options l a h )
+> > *'ls -t' - sorts files by modification time showing last edited files first
+> > *'ls -Glp' - list files in the longform with the owner omitted and '/' after each filename
 
 
 ---
