@@ -16,7 +16,7 @@ print(Cohen_d)
 ```
 
 Interpretaion:
-Cohen’s d showed that the difference between the first babies mean weight and non-first babies mean weight in stands deviation for the two groups is equal to -0.089 STDs. This indicates that there is a very small difference in weights and that the first babies are lighter. 
+Cohen’s d showed that the difference between the first babies mean weight and non-first babies mean weight in standard deviations for the two groups is equal to -0.089 STDs. This indicates that there is a very small difference in weights and that the first babies are lighter. 
 
 Similarly, the difference in pregnancy length also had a very small Cohen’s d of 0.029 STDs. 
 
