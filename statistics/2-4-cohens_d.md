@@ -12,7 +12,7 @@ n1, n2 = len(firsts.totalwgt_lb), len(others.totalwgt_lb)
 pooled_var = (n1 * firsts_var + n2 * others_var) / (n1 + n2)
 Cohen_d = diff / math.sqrt(pooled_var)
 
-print(Cohen_d)
+print(Cohen_d) ```
 
 Interpretaion:
 Cohen’s d showed that the difference between the first babies mean weight and non-first babies mean weight in stands deviation for the two groups is equal to -0.089 STDs. This indicates that there is a very small difference in weights and that the first babies are lighter. 
